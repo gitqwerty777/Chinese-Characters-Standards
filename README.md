@@ -64,7 +64,7 @@
 
 ### 資料架構
 
-[han-WordCharacter.json](Data/han-WordCharacter.json)
+[han-WordCharacter.json](Data/han-Character.json)
 
 ``` json
 {
@@ -79,6 +79,21 @@
 ### 資料來源
 
 [通用规范汉字表](https://zh.wikisource.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8)
+
+## 版權
+
+《異體字字典》
+
+編　輯　者：國家教育研究院語文教育及編譯研究中心
+原　著　者：教育部國語推行委員會
+（民國102年1月1日配合行政院組改併入相關單位）
+發　行　人：潘文忠　許添明
+發　行　所：教育部
+維護單位：國家教育研究院
+地　址：23703新北市三峽區三樹路2號
+電　話：(02)7740-7282
+傳　真：(02)7740-7284
+電子郵件：onile@mail.naer.edu.tw
 
 ## 相關文件
 
