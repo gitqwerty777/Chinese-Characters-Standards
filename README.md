@@ -34,7 +34,7 @@
 ```
 
 - `serial`: 異體字字號，注意編號並非完全連續，見[說明](https://dict.variants.moe.edu.tw/variants/rbt/page_content.rbt?pageId=2982208)
-- `word`: 單字
+- `word`: 漢字
 - `radical`: 部首
 - `meanings`: 陣列，包含 `bopomofo`注音、`pinyin`拼音及`meaning`解釋
 - `explain`: 說文釋形
@@ -49,7 +49,11 @@
 }
 ```
 
-- 字號對應文字
+- 字號及對應漢字
+
+### 資料缺失
+
+有些資料無法取得字形或是剖析失敗，缺失的編號放置於 [variant-wordError.txt](Data/variant-wordError.txt)
 
 ### 資料來源
 
